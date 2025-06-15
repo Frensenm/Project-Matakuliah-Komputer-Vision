@@ -1,1 +1,1 @@
-
+Berikut adalah contoh data yang dihasilkan dari collect_imgs.py, dalam project ini terdiri dari 26 Folder Data yaitu huruf A sampai dengan Z. Dimana setiap folder terdiri dari 100 gambar masing-masing.
