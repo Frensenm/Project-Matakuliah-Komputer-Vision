@@ -1,10 +1,3 @@
-# DATA DISIMPAN MENJADI KATA
-import pickle
-import cv2
-import mediapipe as mp
-import numpy as np
-import time
-
 # Load trained model
 model_dict = pickle.load(open('./model.p', 'rb'))
 model = model_dict['model']
